@@ -20,7 +20,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\LibFizzBuzz\FizzBuzz.Lib.csproj" />
+    <ProjectReference Include="..\FizzBuzz.Lib\FizzBuzz.Lib.csproj" />
   </ItemGroup>
 
 </Project>
